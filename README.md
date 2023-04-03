@@ -13,7 +13,7 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" title="Sass"/> &nbsp;  
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/> &nbsp;
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" height="36" alt="Redux" title="HTML5"/> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40" height="36" alt="Redux" title="Redux"/> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="50" height="36" alt="NodeJS" title="NodeJS"/> &nbsp;
 <img src="https://findlogovector.com/wp-content/uploads/2022/04/mongodb-logo-vector-2022.png" width="50" height="36" alt="MongoDB" title="MongoDB"/> &nbsp;
 
