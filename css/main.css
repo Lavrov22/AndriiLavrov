@@ -169,9 +169,12 @@ img {
     border-radius: 6px;
     box-shadow: 5px 5px 15px #D1D9E6,
         -5px -5px 15px #ffffff;
-    cursor: pointer;
     fill: #3c3e41;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.contacts-link{
+    cursor: pointer;
 }
 
 
