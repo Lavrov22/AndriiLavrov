@@ -15,7 +15,7 @@ html {
 body {
     font-family: var(--font-primary);
     margin: 0;
-    background-color: #ffffff;
+    background-color: #ECF0F3;
 }
 
 a {
@@ -174,7 +174,7 @@ img {
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.skills-item:hover,
+
 .contacts-link:hover{
     fill: #ffffff;
     transform: scale(1.1);
@@ -191,6 +191,7 @@ img {
 
 .center{
     justify-content: center;
+    text-align: center;
 }
 
 .skills-item img {
@@ -213,7 +214,7 @@ img {
 }
 
 .about-title-secondary{
-    font-size: 14px;
+    font-size: 16px;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: 20px;
@@ -482,6 +483,19 @@ img {
     justify-content: center;
 }
 
+.footer{
+    text-align: center;
+    background-color: #ffffff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-text{
+    color: #0d1013;
+    margin-top: 20px;
+    border-top: 1px solid #dce1e4;
+    padding-top: 30px;
+}
 
 
 
