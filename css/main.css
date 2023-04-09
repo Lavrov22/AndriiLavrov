@@ -102,13 +102,35 @@ img {
     text-transform: uppercase; 
 }
 
-.header-item{
+.header-link{
     color: #0d1013;
+}
+
+.header-item{
+    position: relative;
     cursor: pointer;
     padding: 10px;
 }
 
-.header-item:hover, .header-item:focus {
+.header-item::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: -3px;
+    left: 0;
+    background-color: #fc636b;
+    transform-origin: bottom right;
+    transition: transform 0.5s ease-out;
+}
+
+.header-item:hover::after {
+   transform: scaleX(1);
+   transform-origin: bottom left;
+}
+
+.header-link:hover, .header-link:focus {
    color: #fc636b;
 }
 
